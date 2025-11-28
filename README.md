@@ -95,7 +95,7 @@ The agent is designed for enterprise scalability. It is configured for deploymen
 Open **Command Prompt** (Windows) or **Terminal** (Mac/Linux),enter the following command:
 
 ```
-git clone https://github.com/
+git clone https://github.com/sharmatejas2021/CapstoneProject.git
 ```
 
 #### 2. Manual Installation
